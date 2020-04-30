@@ -1,0 +1,14 @@
+body{
+    /* 必须设置  height: 100vw;  不设置则会出现高度为0的情况 */
+    height: 100vw;
+} 
+
+.a{
+    float: left;
+    /* display: inline-block; */
+    margin: 1%;
+    width: 31%;
+    height: 31%;
+    background-color: orange;
+    border-radius: 10%;
+}
